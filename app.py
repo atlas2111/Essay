@@ -62,7 +62,7 @@ class EssayGenerator:
         return generated_essay
 
 
-essay_bot = EssayGenerator()  # Initialize your EssayGenerator class
+essay_bot = EssayGenerator()  # Initializing EssayGenerator class
 
 
 @app.event("app_mention")
